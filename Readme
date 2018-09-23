@@ -5,3 +5,8 @@ entities-  Name
            Password
            Confirm_Password
            
+
+
+           Copy the folder in c:/xampp/htdocs
+           start the server from xampp control panel
+           Go to  localhost/courseRegistration/index.html
