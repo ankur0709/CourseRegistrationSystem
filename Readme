@@ -1,0 +1,7 @@
+Database name - ankur
+Table name =  courseregistrationuser
+entities-  Name
+           Email
+           Password
+           Confirm_Password
+           
